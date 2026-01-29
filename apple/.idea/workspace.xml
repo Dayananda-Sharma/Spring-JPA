@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e76ada79-699a-406c-8346-a0c08f112c59" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dell/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dell/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dell/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dell/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dell/src/main/resources/META-INF/Persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dell/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dell/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hp/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hp/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hp/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenovo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenovo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenovo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenovo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenovo/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="38vB2up13kda2aAO3TeUCYwhv5T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AppleRunner.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.apple [install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e76ada79-699a-406c-8346-a0c08f112c59" name="Changes" comment="" />
+      <created>1769669961098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769669961098</updated>
+    </task>
+    <servers />
+  </component>
+</project>
