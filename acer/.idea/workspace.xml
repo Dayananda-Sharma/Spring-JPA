@@ -5,36 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="633cd58b-2d80-4b12-945c-33cefe88fdb9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../apple/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../apple/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../apple/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../apple/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../apple/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dell/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dell/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dell/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dell/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dell/src/main/resources/META-INF/Persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dell/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dell/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hp/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hp/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hp/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hp/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hp/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hp/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hp/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lenovo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lenovo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lenovo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lenovo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lenovo/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hero/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hero/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hero/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hero/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hero/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hero/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,24 +28,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="38vBl7JreAqGCMyRkRJphte9yvp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AcerRunner.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "Maven.acer [install].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AcerRunner.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.acer [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
