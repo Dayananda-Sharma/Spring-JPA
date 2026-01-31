@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="633cd58b-2d80-4b12-945c-33cefe88fdb9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../hero/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hero/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hero/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hero/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hero/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hero/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inspiron/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inspiron/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inspiron/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inspiron/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inspiron/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inspiron/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pavilion/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pavilion/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pavilion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pavilion/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pavilion/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pavilion/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
