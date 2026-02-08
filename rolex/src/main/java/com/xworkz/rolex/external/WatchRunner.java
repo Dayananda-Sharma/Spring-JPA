@@ -11,5 +11,7 @@ public class WatchRunner {
         EntityManager entityManager = entityManagerFactory.createEntityManager();
         EntityTransaction transaction = entityManager.getTransaction();
         transaction.begin();
+        entityManager.close();
+        entityManagerFactory.close();
     }
 }
